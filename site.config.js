@@ -1,19 +1,19 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'fe4e980ab6fb4bd88468812206ca9271',
+  rootNotionPageId: '63c3372ca1814c3b9dc17305f3bbc8ea',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Kyro Leetcode Record',
-  domain: 'https://charmed-billboard-d36.notion.site/fe4e980ab6fb4bd88468812206ca9271?v=181c927af71e4395b47892874a7c4e47',
+  name: 'Kyro Notion Homepage',
+  domain: 'https://charmed-billboard-d36.notion.site/Personal-Home-63c3372ca1814c3b9dc17305f3bbc8ea',
   author: 'Kyro Gao',
 
   // open graph metadata (optional)
   description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  socialImageTitle: 'Kyro Gao',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
