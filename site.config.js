@@ -1,14 +1,14 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '63c3372ca1814c3b9dc17305f3bbc8ea',
+  rootNotionPageId: '24b673cb8eca4e758d3d5b2f306524df',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Kyro Notion Homepage',
-  domain: 'https://charmed-billboard-d36.notion.site/Personal-Home-63c3372ca1814c3b9dc17305f3bbc8ea',
+  name: 'Kyro Project Homepage',
+  domain: 'https://charmed-billboard-d36.notion.site/Kyro-Homepage-24b673cb8eca4e758d3d5b2f306524df',
   author: 'Kyro Gao',
 
   // open graph metadata (optional)
